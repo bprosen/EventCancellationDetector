@@ -1,0 +1,5 @@
+name: EventCancellationDetector
+main: me.xxben.eventcancellationdetector
+author: xxBen
+description: Detector for Events to see what cancelled it
+version: 1.0
